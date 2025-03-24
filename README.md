@@ -3,6 +3,7 @@
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-orange.svg)](https://www.kaggle.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://your-build-system/build-status) 
+
 This project demonstrates weather forecasting using a Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) implemented in Python 3.12.  It leverages a weather dataset sourced from Kaggle to predict future weather conditions.  This README provides a comprehensive guide to setting up, running, and understanding the project.
 
 ## 🌟 Project Overview
